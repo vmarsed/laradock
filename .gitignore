@@ -2,6 +2,8 @@
 /logs
 /data
 # .env
+.github
+.vscode
 /.project
 .docker-sync
 /jenkins/jenkins_home
